@@ -1,0 +1,11 @@
+{
+  "name": "js2coffee-grunt",
+  "private": true,
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.7.0",
+    "js2coffee": "~0.3.1"
+  }
+}
